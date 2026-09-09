@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator= C8 NewDesignator=C8
+Change Component Designator: OldDesignator=Green LED NewDesignator=D1
+Change Component Designator: OldDesignator=Green LED? NewDesignator=D2
+Change Net Name : Old Net Name=NetGreen LED?_1 New Net Name=NetD2_1
+Added Member To Class: ClassName=PCB_Schematic Member=Component C1 2.2 uF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C2 2.2 uF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C3 22u
+Added Member To Class: ClassName=PCB_Schematic Member=Component C7 2.2 uF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C8 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component R3 MCU08050D2201BP500
+Added Member To Class: ClassName=PCB_Schematic Member=Component R6 AC0603JR-7W10KL

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R6 Old Footprint=FP-AC0603-IPC_A New Footprint=FP-AC0402-IPC_A
+Change Component Comment : Designator=R6 Old Comment=AC0603JR-7W10KL New Comment=AC0402DR-0710K7L
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8FC56757-B880-4324-B016-FCCE0F34A47B New ItemGUID=564A7E9C-941D-43CB-9FB3-5336C29AB3E5 Old RevisionGUID=8C173067-2842-4FDD-90FA-5D19C8D9300C New RevisionGUID=E9A5A0CC-3BB4-4B51-9483-6799CB2AD83E
+Change component parameters: Designator = "R6" ("R6"); Footprint = "FP-AC0603-IPC_A"; UniqueID = "\DUGJCQRD" ("\DUGJCQRD")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"

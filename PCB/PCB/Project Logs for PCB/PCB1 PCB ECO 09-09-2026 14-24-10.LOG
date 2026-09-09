@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Member To Class: ClassName=PCB_Schematic Member=Component 2k2 MCU08050D2201BP500
+Added Member To Class: ClassName=PCB_Schematic Member=Component 10K AC0603JR-7W10KL
+Added Member To Class: ClassName=PCB_Schematic Member=Component 22u C0805C185K4RACTU
+Added Member To Class: ClassName=PCB_Schematic Member=Component C2 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C4 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C5 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C7 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C8 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 2n2
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 2.2 uF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 2.2 uF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 100 nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component C? 10nF
+Added Member To Class: ClassName=PCB_Schematic Member=Component J3 SM06B-GHS-TB(LF)(SN)
+Added Member To Class: ClassName=PCB_Schematic Member=Component U1 ams1117
+Added Member To Class: ClassName=PCB_Schematic Member=Component U3 MPU-6050

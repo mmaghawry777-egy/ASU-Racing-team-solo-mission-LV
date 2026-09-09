@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\PCB\PCB1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb1-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Counterholes_Top_NonPlated|DrillFile=pcb1--nonplated.tx7|DrillLayers=gtl,g1,g2
+LayersSetName=Counterholes_Bottom_NonPlated|DrillFile=pcb1--nonplated.tx8|DrillLayers=g1,g2,gbl
